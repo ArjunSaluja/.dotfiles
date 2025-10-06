@@ -1,0 +1,7 @@
+[commit]
+	gpgsign = true
+[user]
+	signingkey = 8D691FA3D6B2902E
+	name = Arjun Singh Saluja
+	eamil = arjunsaluja2004@gmail.com
+	email = arjunsaluja2004@gmail.com
